@@ -1,7 +1,7 @@
 # Eurorack-manual-trigger-arcade-button
 PCB design for a manual trigger with an arcade button for Eurorack synthesizer
 
-You should read the build details on http://useless.blue
+You should read the build details on https://useless.blue/arcade-trigger-for-eurorack.html
 
 What are the files:
   - Gerber_Dual Manual Trigger Board_20190602005331.zip - Gerber files for pcb production
